@@ -11,7 +11,7 @@
       <table>
         <tr>
           <td>
-            <p><img width=100; height=100; src=https://user-images.githubusercontent.com/66327542/210177903-7faed856-94f2-4040-a18d-57e8e9ef6a8c.png></p>
+            <p><img width=500; height=100; src=https://user-images.githubusercontent.com/66327542/210177903-7faed856-94f2-4040-a18d-57e8e9ef6a8c.png></p>
           </td>
           <td width=501>
             <p>American International University-Bangladesh (AIUB)</b></p>
